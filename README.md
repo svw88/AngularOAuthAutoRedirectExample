@@ -5,5 +5,11 @@ This project is an example of how to use the angular-oauth2-oidc package with an
 
 All Credit to Manfred Steyer for the angular-oauth2-oidc library. This is simply an example of an implementation.
 
-Username: max
-Password: geheim
+Instruction Steps:
+
+  Clone Project.
+  Run Npm Install In Folder With package.json file
+  Run Ng Serve -O
+
+  Username: max
+  Password: geheim

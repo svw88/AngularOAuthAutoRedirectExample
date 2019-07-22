@@ -8,8 +8,8 @@ All Credit to Manfred Steyer for the angular-oauth2-oidc library. This is simply
 Instruction Steps:
 
   Clone Project.
-  Run Npm Install In Folder With package.json file.
-  Run Ng Serve -O
+  Run "npm install" In The Folder With package.json file.
+  Run "ng serve -o" In The Same Folder.
 
   Username: max
   Password: geheim
